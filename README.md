@@ -6,7 +6,7 @@ Este proyecto ha sido posible a otros proyectos que he encontrado por las webs, 
 Se trata de un circuito que integra un sim800l y un nano conectado al portero (en mi caso un Golmar t-700). Este dispositivo lo que hace es que si estoy fuera de casa y pican al telefonillo me hace una llamada a mi número y desde mi teléfono puedo hablar. ( la intención era que si picaba algún "caco" para saber si hay alguien dentro y poder simular que sí).
 
 
-El dispositivo se puede activar (variable fuera de casa on para que me llame) por recepción de rf433, pulsador o modbus (este último no está probado todavía).
+El dispositivo se puede activar (variable fuera de casa on para que me llame) por recepción de rf433, pulsador o modbus (este último no está probado todavía). Además combinándolo con volumétricos rf433 sirve de alarma GSM.
 
 El impreso tiene un en la parte del modulo sim800l y es que el hace contacto las diferentes conexiones debido a la aureola que hay fuera de ellos, esta pendiente de modificación pero solo limando un poco las pistas para que no hagan contacto es suficiente
 
