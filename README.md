@@ -13,39 +13,39 @@ El impreso tiene un en la parte del modulo sim800l y es que el hace contacto las
 
 Los materiales necesarios por que he usado son:
 
-1 arduino nano
-1 sim 800l
-1 receptor RF de 43 
-3 leds
-3 mosfet bs170 
-1 rele SRA-05VDC
-2 diodo 1N4001
-1 fusible
-1 swich
-1 lm317
-1 lm350
-1 7805
-1 optoacoplacodor pc817
-1 zeners 5,1v
-bornas
+1 arduino nano.
+1 sim 800l.
+1 receptor RF de 43 .
+3 leds.
+3 mosfet bs170 .
+1 rele SRA-05VDC.
+2 diodo 1N4001.
+1 fusible.
+1 swich.
+1 lm317.
+1 lm350.
+1 7805.
+1 optoacoplacodor pc817.
+1 zeners 5,1v.
+bornas.
 
-condesadores
+condesadores.
 
-1- 1mf
-4- 100nf
-2- uf
-2- pf
-1- 0.1mf
+1- 1mf.
+4- 100nf.
+2- uf.
+2- pf.
+1- 0.1mf.
 
-resistencias
+resistencias.
 
-1- 33k
-1- 1k
-2- 450
-3- 330
-1- 200
-2- 10
-7 - 10k
+1- 33k.
+1- 1k.
+2- 450.
+3- 330.
+1- 200.
+2- 10.
+7 - 10k.
 
 
 Si álguien más lo prueba en diferentes telefonillos que lo reporte. 
