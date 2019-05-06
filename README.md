@@ -8,7 +8,9 @@ Se trata de un circuito que integra un sim800l y un nano conectado al portero (e
 
 El dispositivo se puede activar (variable fuera de casa on para que me llame) por recepción de rf433, pulsador o modbus (este último no está probado todavía). Además combinándolo con volumétricos rf433 sirve de alarma GSM.
 
-El impreso tiene un en la parte del modulo sim800l y es que el hace contacto las diferentes conexiones debido a la aureola que hay fuera de ellos, esta pendiente de modificación pero solo limando un poco las pistas para que no hagan contacto es suficiente
+El impreso tiene un en la parte del modulo sim800l y es que el hace contacto las diferentes conexiones debido a la aureola que hay fuera de ellos, esta pendiente de modificación pero solo limando un poco las pistas para que no hagan contacto es suficiente.
+
+Falta por depurar un pequeño acople al inicio de la llamada en el teléfono.
 
 
 Los materiales necesarios por que he usado son:
